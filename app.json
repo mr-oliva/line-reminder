@@ -1,0 +1,12 @@
+{
+  "name": "line-reminder",
+  "description": "reminder bot than post line",
+  "keywords": [
+    "line",
+    "go",
+    "heroku",
+    "reminder"
+  ],
+  "website": "https://github.com/kutsuzawa/line-reminder",
+  "repository": "https://github.com/kutsuzawa/line-reminder"
+}
